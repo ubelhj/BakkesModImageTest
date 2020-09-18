@@ -1,0 +1,12 @@
+Watermark Plugin
+9|BEFORE ENABLING MAKE SURE YOU'VE SET THE PLUGIN UP PROPERLY
+9|Go to your bakkesmod folder - in your injector bakkesmod.exe hit file -> open BakkesMod folder
+9|It's usually found at C:\Program Files (x86)\Steam\steamapps\common\rocketleague\Binaries\Win64\bakkesmod
+9|Open the data folder and add an image titled "watermark.png" with no quotes
+9|Then RESTART YOUR GAME
+9|Refreshing the plugin will cause a delayed crash of your game, so please just restart the whole game
+1|Enable watermark|watermark_enabled
+4|Watermark X location|watermark_x|0.0|1.0
+4|Watermark Y location|watermark_y|0.0|1.0
+4|Watermark scale|watermark_scale|0.0|10.0
+9|Made by JerryTheBee#1117. If you have a great plugin idea please check out my fiverr!
