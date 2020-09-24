@@ -1,6 +1,7 @@
 # BakkesModImageTest
 
-We have new image wrappers for plugins, so why not make something cool for people to use. This plugin creates a watermark on your screen for recording or screenshots. Shoutouts to CinderBlock and Martinn for the feature and all of the core team for being awesome. Follow the instructions to add your logo on top of your game.
+We have new image wrappers for plugins, so why not make something cool for people to use. This plugin creates a watermark on your screen for recording or screenshots. Shoutouts to CinderBlock and Martinn for the feature and all of the core team for being awesome. Follow the instructions to add your logo on top of your game.  
+Download at [https://bakkesplugins.com/plugins/view/145](https://bakkesplugins.com/plugins/view/145)
 
 ## INSTRUCTIONS
 **BEFORE ENABLING MAKE SURE YOU'VE SET THE PLUGIN UP PROPERLY**  
