@@ -6,7 +6,16 @@ Watermark Plugin
 9|Then RESTART YOUR GAME
 9|Refreshing the plugin will cause a delayed crash of your game, so please just restart the whole game
 1|Enable watermark|watermark_enabled
-4|Watermark X location|watermark_x|0.0|1.0
-4|Watermark Y location|watermark_y|0.0|1.0
-4|Watermark scale|watermark_scale|0.0|10.0
+1|Enable watermark background|watermark_bg_enabled
+4|Watermark X location|watermark_x|-1.0|1.0
+4|Watermark Y location|watermark_y|-1.0|1.0
+4|Watermark X scale|watermark_x_scale|0.0|10.0
+4|Watermark Y scale|watermark_y_scale|0.0|10.0
+4|Watermark Background X location|watermark_bg_x|0.0|1.0
+4|Watermark Background Y location|watermark_bg_y|0.0|1.0
+4|Watermark Background End X location|watermark_bg_x_end|0.0|1.0
+4|Watermark Background End Y location|watermark_bg_y_end|0.0|1.0
+13|Watermark Color Selector (use white for true color)|watermark_color
+13|Background Color Selector|watermark_bg_color
 9|Made by JerryTheBee#1117. If you have a great plugin idea please check out my fiverr!
+9|Background box made thanks to a fiverr commission by lemingtin

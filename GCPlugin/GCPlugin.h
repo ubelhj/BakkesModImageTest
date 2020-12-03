@@ -1,4 +1,5 @@
 #pragma once
+#pragma comment(lib, "pluginsdk.lib")
 
 #include "bakkesmod/plugin/bakkesmodplugin.h"
 #include "bakkesmod/plugin/pluginwindow.h"
@@ -14,6 +15,6 @@ class GCPlugin: public BakkesMod::Plugin::BakkesModPlugin
 
 	void render(CanvasWrapper canvas);
 
-	std::shared_ptr<ImageWrapper> testImage;
+	std::shared_ptr<ImageWrapper> image;
 };
 
